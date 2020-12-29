@@ -25,3 +25,9 @@ function removeRandomLetter(prenom) {
 }
 
 // .toString(0).substring(0)
+
+// ALEX
+
+// let pos = Math.floor(Math.random()*prenom.length);
+// nomRand = prenom.substr(0, pos)+prenom.substr(pos+1);
+// alert(nomRand);
